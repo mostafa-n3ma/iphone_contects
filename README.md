@@ -15,3 +15,9 @@ used concepts:
 5-fragment transactions I didn't know about navigation and jetpack back then !
 6-bottomNavigation
 7-call permissions
+
+<img width="193" alt="image" src="https://user-images.githubusercontent.com/77761759/159391483-0db0ec44-b095-4b49-bf9a-6d7b2548230d.png">
+
+<img width="188" alt="image" src="https://user-images.githubusercontent.com/77761759/159391536-cf497ad4-4fa3-4253-8b86-acf291eacba3.png">
+
+<img width="196" alt="image" src="https://user-images.githubusercontent.com/77761759/159391586-5512e0ce-6857-4b9a-8c47-ff8bb5607a56.png">
