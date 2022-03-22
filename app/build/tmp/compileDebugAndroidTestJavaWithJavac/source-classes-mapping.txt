@@ -1,0 +1,7 @@
+com/example/iphone_contects/test/BuildConfig.java
+ com.example.iphone_contects.test.BuildConfig
+com/example/iphone_contects/MainActivityTest.java
+ com.example.iphone_contects.MainActivityTest
+ com.example.iphone_contects.MainActivityTest$1
+com/example/iphone_contects/ExampleInstrumentedTest.java
+ com.example.iphone_contects.ExampleInstrumentedTest

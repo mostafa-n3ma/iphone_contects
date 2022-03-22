@@ -1,0 +1,77 @@
+com/example/iphone_contects/Fragments/KeypadFragment.java
+ com.example.iphone_contects.Fragments.KeypadFragment
+ com.example.iphone_contects.Fragments.KeypadFragment$1
+ com.example.iphone_contects.Fragments.KeypadFragment$10
+ com.example.iphone_contects.Fragments.KeypadFragment$11
+ com.example.iphone_contects.Fragments.KeypadFragment$12
+ com.example.iphone_contects.Fragments.KeypadFragment$13
+ com.example.iphone_contects.Fragments.KeypadFragment$14
+ com.example.iphone_contects.Fragments.KeypadFragment$15
+ com.example.iphone_contects.Fragments.KeypadFragment$16
+ com.example.iphone_contects.Fragments.KeypadFragment$17
+ com.example.iphone_contects.Fragments.KeypadFragment$18
+ com.example.iphone_contects.Fragments.KeypadFragment$2
+ com.example.iphone_contects.Fragments.KeypadFragment$3
+ com.example.iphone_contects.Fragments.KeypadFragment$4
+ com.example.iphone_contects.Fragments.KeypadFragment$5
+ com.example.iphone_contects.Fragments.KeypadFragment$6
+ com.example.iphone_contects.Fragments.KeypadFragment$7
+ com.example.iphone_contects.Fragments.KeypadFragment$8
+ com.example.iphone_contects.Fragments.KeypadFragment$9
+com/example/iphone_contects/Fragments/ContactFragment.java
+ com.example.iphone_contects.Fragments.ContactFragment
+ com.example.iphone_contects.Fragments.ContactFragment$1
+ com.example.iphone_contects.Fragments.ContactFragment$2
+ com.example.iphone_contects.Fragments.ContactFragment$3
+ com.example.iphone_contects.Fragments.ContactFragment$4
+ com.example.iphone_contects.Fragments.ContactFragment$5
+ com.example.iphone_contects.Fragments.ContactFragment$6
+com/example/iphone_contects/Database/Contact_Dao.java
+ com.example.iphone_contects.Database.Contact_Dao
+com/example/iphone_contects/Database/Database_All.java
+ com.example.iphone_contects.Database.Database_All
+ com.example.iphone_contects.Database.Database_All$1
+ com.example.iphone_contects.Database.Database_All$contactAsync
+com/example/iphone_contects/Database/ContactViewModel.java
+ com.example.iphone_contects.Database.ContactViewModel
+com/example/iphone_contects/Database/Contact.java
+ com.example.iphone_contects.Database.Contact
+com/example/iphone_contects/Fragments/FavoritesFragment.java
+ com.example.iphone_contects.Fragments.FavoritesFragment
+ com.example.iphone_contects.Fragments.FavoritesFragment$1
+ com.example.iphone_contects.Fragments.FavoritesFragment$2
+ com.example.iphone_contects.Fragments.FavoritesFragment$3
+ com.example.iphone_contects.Fragments.FavoritesFragment$4
+ com.example.iphone_contects.Fragments.FavoritesFragment$5
+ com.example.iphone_contects.Fragments.FavoritesFragment$6
+ com.example.iphone_contects.Fragments.FavoritesFragment$7
+ com.example.iphone_contects.Fragments.FavoritesFragment$8
+ com.example.iphone_contects.Fragments.FavoritesFragment$9
+com/example/iphone_contects/Fragments/RecentFragment.java
+ com.example.iphone_contects.Fragments.RecentFragment
+com/example/iphone_contects/MainActivity.java
+ com.example.iphone_contects.MainActivity
+ com.example.iphone_contects.MainActivity$1
+com/example/iphone_contects/Adapters/ContactAdapter.java
+ com.example.iphone_contects.Adapters.ContactAdapter
+ com.example.iphone_contects.Adapters.ContactAdapter$1
+ com.example.iphone_contects.Adapters.ContactAdapter$ContactHolder
+ com.example.iphone_contects.Adapters.ContactAdapter$ContactHolder$1
+ com.example.iphone_contects.Adapters.ContactAdapter$onItemClicker
+com/example/iphone_contects/BuildConfig.java
+ com.example.iphone_contects.BuildConfig
+com/example/iphone_contects/Fragments/VoicemailFragment.java
+ com.example.iphone_contects.Fragments.VoicemailFragment
+com/example/iphone_contects/Adapters/FavAdapter.java
+ com.example.iphone_contects.Adapters.FavAdapter
+ com.example.iphone_contects.Adapters.FavAdapter$1
+ com.example.iphone_contects.Adapters.FavAdapter$Callonfavclick
+ com.example.iphone_contects.Adapters.FavAdapter$favHolder
+ com.example.iphone_contects.Adapters.FavAdapter$favHolder$1
+com/example/iphone_contects/Database/Repository.java
+ com.example.iphone_contects.Database.Repository
+ com.example.iphone_contects.Database.Repository$1
+ com.example.iphone_contects.Database.Repository$delete_All_contact_Async
+ com.example.iphone_contects.Database.Repository$delete_contact_Async
+ com.example.iphone_contects.Database.Repository$insert_contact_Async
+ com.example.iphone_contects.Database.Repository$update_contact_Async

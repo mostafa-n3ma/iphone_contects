@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_Favorites"
+        android:title="Favorites"
+        android:icon="@drawable/fav_ic"/>
+    <item
+        android:id="@+id/item_Recents"
+        android:title="Recent"
+        android:icon="@drawable/recent"/>
+    <item
+        android:id="@+id/item_Contacts"
+        android:title="Contacts"
+        android:icon="@drawable/contact1"/>
+    <item
+        android:id="@+id/item_Keypad"
+        android:title="Keypad"
+        android:icon="@drawable/pad_ic"/>
+    <item
+        android:id="@+id/item_Voicemail"
+        android:title="Voicemail"
+        android:icon="@drawable/voicemail_ic"/>
+
+</menu>

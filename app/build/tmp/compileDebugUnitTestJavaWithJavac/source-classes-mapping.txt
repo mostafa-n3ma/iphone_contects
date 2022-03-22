@@ -1,0 +1,4 @@
+com/example/iphone_contects/ExampleUnitTest.java
+ com.example.iphone_contects.ExampleUnitTest
+com/example/iphone_contects/Database/ContactTest.java
+ com.example.iphone_contects.Database.ContactTest
